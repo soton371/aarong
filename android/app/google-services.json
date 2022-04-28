@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28258784760",
+    "project_id": "aarong-2bf83",
+    "storage_bucket": "aarong-2bf83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28258784760:android:cc79c88532a3ef36ecb20d",
+        "android_client_info": {
+          "package_name": "com.example.aarong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28258784760-46qbbk4ka2lil1hvvnq1no26lc347edj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBheRLtGk8UqA9JtbnDPFGkC7jJwolq7yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28258784760-46qbbk4ka2lil1hvvnq1no26lc347edj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
